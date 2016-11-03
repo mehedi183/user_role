@@ -1,0 +1,1 @@
+<h2>Article Generated</h2>
