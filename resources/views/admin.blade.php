@@ -12,8 +12,10 @@
 		<div class="col-md-12">
 			<div class="col-md-3">Name</div>
 			<div class="col-md-3">Email</div>
-			<div class="col-md-3">Role</div>
-			<div class="col-md-3">Assign Role</div>
+			<div class="col-md-1">User</div>
+			<div class="col-md-1">Author</div>
+			<div class="col-md-1">Admin</div>
+						<div class="col-md-3">Assign Role</div>
 			<hr /><br />
 
 			@foreach($users as $user)
